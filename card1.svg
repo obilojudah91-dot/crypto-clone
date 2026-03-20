@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="600" viewBox="0 0 600 600" role="img" aria-label="Trump 1000 Bitcoin Gold Bar">
+  <defs>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#fbbf24"/>
+      <stop offset="40%" stop-color="#f59e0b"/>
+      <stop offset="100%" stop-color="#d97706"/>
+    </linearGradient>
+    <linearGradient id="shadow" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#111827" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#111827" stop-opacity="0.05"/>
+    </linearGradient>
+  </defs>
+
+  <!-- background -->
+  <rect x="0" y="0" width="600" height="600" fill="#0b1220"/>
+
+  <!-- soft glow -->
+  <circle cx="300" cy="210" r="140" fill="#fbbf24" opacity="0.12"/>
+
+  <!-- bar -->
+  <g transform="translate(120 170)">
+    <rect x="0" y="0" width="360" height="240" rx="26" fill="url(#gold)"/>
+    <rect x="10" y="12" width="340" height="216" rx="22" fill="url(#shadow)" opacity="0.9"/>
+
+    <!-- center emblem -->
+    <rect x="70" y="70" width="220" height="100" rx="16" fill="#0b1220" opacity="0.22"/>
+    <text x="180" y="140" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="34" font-weight="800" fill="#0b1220" opacity="0.65">1000 BTC</text>
+
+    <!-- ridges -->
+    <g opacity="0.28" stroke="#0b1220">
+      <line x1="30" y1="50" x2="330" y2="50" stroke-width="6"/>
+      <line x1="30" y1="90" x2="330" y2="90" stroke-width="6"/>
+      <line x1="30" y1="130" x2="330" y2="130" stroke-width="6"/>
+      <line x1="30" y1="170" x2="330" y2="170" stroke-width="6"/>
+    </g>
+  </g>
+
+  <!-- highlight -->
+  <path d="M170 210 C240 160, 360 160, 430 210" fill="none" stroke="#fff" stroke-opacity="0.35" stroke-width="10" stroke-linecap="round"/>
+</svg>
+

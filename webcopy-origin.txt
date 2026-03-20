@@ -1,0 +1,464 @@
+Uri: https://assets.gemcommerce.com/assets-v2/gp-marquee-v7-5.js?v=1753238603403
+File Name: C:\Documents\crypto clone\quantumledgerasset.com\assets-v2\gp-marquee-v7-5.js
+Content Type: application/javascript
+
+Uri: https://cdn.shopify.com/extensions/0adc6040-1746-492a-bcfc-60d257812c2e/pushowl-brevo-email-push-sms-136/assets/pushowl-shopify.js
+File Name: C:\Documents\crypto clone\quantumledgerasset.com\extensions\0adc6040-1746-492a-bcfc-60d257812c2e\pushowl-brevo-email-push-sms-136\assets\pushowl-shopify.js
+Content Type: text/javascript
+
+Uri: https://cdn.shopify.com/extensions/b620cabf-594e-45c6-be1d-a0fa9c803862/trustoo-email-popups-86/assets/style.css
+File Name: C:\Documents\crypto clone\quantumledgerasset.com\extensions\b620cabf-594e-45c6-be1d-a0fa9c803862\trustoo-email-popups-86\assets\style.css
+Content Type: text/css
+
+Uri: https://cdn.shopify.com/extensions/c1162664-d9d6-4148-961c-b44109f0cd1e/gempages-builder-107/assets/gp-flow-actions.js?v=1753238603403
+File Name: C:\Documents\crypto clone\quantumledgerasset.com\extensions\c1162664-d9d6-4148-961c-b44109f0cd1e\gempages-builder-107\assets\gp-flow-actions.js
+Content Type: text/javascript
+
+Uri: https://cdn.shopify.com/extensions/c1162664-d9d6-4148-961c-b44109f0cd1e/gempages-builder-107/assets/gp-global.js?v=1753238603403
+File Name: C:\Documents\crypto clone\quantumledgerasset.com\extensions\c1162664-d9d6-4148-961c-b44109f0cd1e\gempages-builder-107\assets\gp-global.js
+Content Type: text/javascript
+
+Uri: https://cdn.shopify.com/extensions/c1162664-d9d6-4148-961c-b44109f0cd1e/gempages-builder-107/assets/gp-lazyload.v2.js?v=1753238603403
+File Name: C:\Documents\crypto clone\quantumledgerasset.com\extensions\c1162664-d9d6-4148-961c-b44109f0cd1e\gempages-builder-107\assets\gp-lazyload.v2.js
+Content Type: text/javascript
+
+Uri: https://cdn.shopify.com/extensions/d315cc37-efc3-4077-984a-2c4786719a92/uppromote-affiliate-82/assets/core.min.js
+File Name: C:\Documents\crypto clone\quantumledgerasset.com\extensions\d315cc37-efc3-4077-984a-2c4786719a92\uppromote-affiliate-82\assets\core.min.js
+Content Type: text/javascript
+
+Uri: https://cdn.shopify.com/extensions/d315cc37-efc3-4077-984a-2c4786719a92/uppromote-affiliate-82/assets/customer-referral.css
+File Name: C:\Documents\crypto clone\quantumledgerasset.com\extensions\d315cc37-efc3-4077-984a-2c4786719a92\uppromote-affiliate-82\assets\customer-referral.css
+Content Type: text/css
+
+Uri: https://cdn.shopify.com/extensions/d315cc37-efc3-4077-984a-2c4786719a92/uppromote-affiliate-82/assets/customer-referral.js
+File Name: C:\Documents\crypto clone\quantumledgerasset.com\extensions\d315cc37-efc3-4077-984a-2c4786719a92\uppromote-affiliate-82\assets\customer-referral.js
+Content Type: text/javascript
+
+Uri: https://cdn.shopify.com/s/files/1/0728/6600/5243/files/5faefbc04b2d2470f40bf614.webp?v=1750345814
+File Name: C:\Documents\crypto clone\quantumledgerasset.com\s\files\1\0728\6600\5243\files\5faefbc04b2d2470f40bf614.webp
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/0728/6600/5243/files/business-insider-logo.svg?v=1750345317
+File Name: C:\Documents\crypto clone\quantumledgerasset.com\s\files\1\0728\6600\5243\files\business-insider-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.shopify.com/s/files/1/0728/6600/5243/files/download.png?v=1750345511
+File Name: C:\Documents\crypto clone\quantumledgerasset.com\s\files\1\0728\6600\5243\files\download.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/0728/6600/5243/files/Fox_News_Channel_logo_svg.png?v=1750345511
+File Name: C:\Documents\crypto clone\quantumledgerasset.com\s\files\1\0728\6600\5243\files\Fox_News_Channel_logo_svg.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/0728/6600/5243/files/rightsidebroadcastingnetwork_1559655217797_original._CR0_0_2100_2100_._US500_SCLZZZZZZZ.jpg?v=1750345815
+File Name: C:\Documents\crypto clone\quantumledgerasset.com\s\files\1\0728\6600\5243\files\rightsidebroadcastingnetwork_1559655217797_original._CR0_0_2100_2100_._US500_SCLZZZZZZZ.jpg
+Content Type: image/jpeg
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css
+File Name: C:\Documents\crypto clone\quantumledgerasset.com\ajax\libs\font-awesome\6.4.0\css\all.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/webfonts/fa-brands-400.ttf
+File Name: C:\Documents\crypto clone\quantumledgerasset.com\ajax\libs\font-awesome\6.4.0\webfonts\fa-brands-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/webfonts/fa-brands-400.woff2
+File Name: C:\Documents\crypto clone\quantumledgerasset.com\ajax\libs\font-awesome\6.4.0\webfonts\fa-brands-400.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/webfonts/fa-regular-400.ttf
+File Name: C:\Documents\crypto clone\quantumledgerasset.com\ajax\libs\font-awesome\6.4.0\webfonts\fa-regular-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/webfonts/fa-regular-400.woff2
+File Name: C:\Documents\crypto clone\quantumledgerasset.com\ajax\libs\font-awesome\6.4.0\webfonts\fa-regular-400.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/webfonts/fa-solid-900.ttf
+File Name: C:\Documents\crypto clone\quantumledgerasset.com\ajax\libs\font-awesome\6.4.0\webfonts\fa-solid-900.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/webfonts/fa-solid-900.woff2
+File Name: C:\Documents\crypto clone\quantumledgerasset.com\ajax\libs\font-awesome\6.4.0\webfonts\fa-solid-900.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/webfonts/fa-v4compatibility.ttf
+File Name: C:\Documents\crypto clone\quantumledgerasset.com\ajax\libs\font-awesome\6.4.0\webfonts\fa-v4compatibility.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/webfonts/fa-v4compatibility.woff2
+File Name: C:\Documents\crypto clone\quantumledgerasset.com\ajax\libs\font-awesome\6.4.0\webfonts\fa-v4compatibility.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css
+File Name: C:\Documents\crypto clone\quantumledgerasset.com\ajax\libs\font-awesome\6.5.0\css\all.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/webfonts/fa-brands-400.ttf
+File Name: C:\Documents\crypto clone\quantumledgerasset.com\ajax\libs\font-awesome\6.5.0\webfonts\fa-brands-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/webfonts/fa-brands-400.woff2
+File Name: C:\Documents\crypto clone\quantumledgerasset.com\ajax\libs\font-awesome\6.5.0\webfonts\fa-brands-400.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/webfonts/fa-regular-400.ttf
+File Name: C:\Documents\crypto clone\quantumledgerasset.com\ajax\libs\font-awesome\6.5.0\webfonts\fa-regular-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/webfonts/fa-regular-400.woff2
+File Name: C:\Documents\crypto clone\quantumledgerasset.com\ajax\libs\font-awesome\6.5.0\webfonts\fa-regular-400.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/webfonts/fa-solid-900.ttf
+File Name: C:\Documents\crypto clone\quantumledgerasset.com\ajax\libs\font-awesome\6.5.0\webfonts\fa-solid-900.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/webfonts/fa-solid-900.woff2
+File Name: C:\Documents\crypto clone\quantumledgerasset.com\ajax\libs\font-awesome\6.5.0\webfonts\fa-solid-900.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/webfonts/fa-v4compatibility.ttf
+File Name: C:\Documents\crypto clone\quantumledgerasset.com\ajax\libs\font-awesome\6.5.0\webfonts\fa-v4compatibility.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/webfonts/fa-v4compatibility.woff2
+File Name: C:\Documents\crypto clone\quantumledgerasset.com\ajax\libs\font-awesome\6.5.0\webfonts\fa-v4compatibility.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnwidget.judge.me/shopify_v2.css
+File Name: C:\Documents\crypto clone\quantumledgerasset.com\shopify_v2.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap
+File Name: C:\Documents\crypto clone\quantumledgerasset.com\css2-3
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Montserrat:wght@600&display=swap
+File Name: C:\Documents\crypto clone\quantumledgerasset.com\css2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Montserrat:wght@600;800&display=swap
+File Name: C:\Documents\crypto clone\quantumledgerasset.com\css2-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap
+File Name: C:\Documents\crypto clone\quantumledgerasset.com\css2-2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuDyYMZg.ttf
+File Name: C:\Documents\crypto clone\quantumledgerasset.com\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuDyYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYMZg.ttf
+File Name: C:\Documents\crypto clone\quantumledgerasset.com\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuGKYMZg.ttf
+File Name: C:\Documents\crypto clone\quantumledgerasset.com\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuGKYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuI6fMZg.ttf
+File Name: C:\Documents\crypto clone\quantumledgerasset.com\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuI6fMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfMZg.ttf
+File Name: C:\Documents\crypto clone\quantumledgerasset.com\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu170w-.ttf
+File Name: C:\Documents\crypto clone\quantumledgerasset.com\s\montserrat\v31\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu170w-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM70w-.ttf
+File Name: C:\Documents\crypto clone\quantumledgerasset.com\s\montserrat\v31\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM70w-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr70w-.ttf
+File Name: C:\Documents\crypto clone\quantumledgerasset.com\s\montserrat\v31\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr70w-.ttf
+Content Type: font/ttf
+
+Uri: https://quantumglobalmedbed.com/secure/images/pictures/Customized-Cloud-Solutions-Benefits-Complete-Controller.jpg
+File Name: C:\Documents\crypto clone\quantumledgerasset.com\secure\images\pictures\Customized-Cloud-Solutions-Benefits-Complete-Controller.jpg
+Content Type: image/jpeg
+
+Uri: https://quantumledgerasset.com/
+File Name: C:\Documents\crypto clone\quantumledgerasset.com\index.htm
+Content Type: text/html
+
+Uri: https://quantumledgerasset.com/build/assets/app-B8IgZ4FG.js
+File Name: C:\Documents\crypto clone\quantumledgerasset.com\build\assets\app-B8IgZ4FG.js
+Content Type: application/x-javascript
+
+Uri: https://quantumledgerasset.com/build/assets/app-ZIYIpOlB.css
+File Name: C:\Documents\crypto clone\quantumledgerasset.com\build\assets\app-ZIYIpOlB.css
+Content Type: text/css
+
+Uri: https://quantumledgerasset.com/card1.png
+File Name: C:\Documents\crypto clone\quantumledgerasset.com\card1.png
+Content Type: image/png
+
+Uri: https://quantumledgerasset.com/css/scrollbar.css
+File Name: C:\Documents\crypto clone\quantumledgerasset.com\css\scrollbar.css
+Content Type: text/css
+
+Uri: https://quantumledgerasset.com/forgot-password
+File Name: C:\Documents\crypto clone\quantumledgerasset.com\forgot-password.html
+Content Type: text/html
+
+Uri: https://quantumledgerasset.com/fra.jpg
+File Name: C:\Documents\crypto clone\quantumledgerasset.com\fra.jpg
+Content Type: image/jpeg
+
+Uri: https://quantumledgerasset.com/livewire/livewire.js?id=02b08710
+File Name: C:\Documents\crypto clone\quantumledgerasset.com\livewire\livewire.js
+Content Type: application/javascript
+
+Uri: https://quantumledgerasset.com/login
+File Name: C:\Documents\crypto clone\quantumledgerasset.com\login.html
+Content Type: text/html
+
+Uri: https://quantumledgerasset.com/logo.png
+File Name: C:\Documents\crypto clone\quantumledgerasset.com\logo-2.png
+Content Type: image/png
+
+Uri: https://quantumledgerasset.com/logo.png?v=1734078290&width=600
+File Name: C:\Documents\crypto clone\quantumledgerasset.com\logo.png
+Content Type: image/png
+
+Uri: https://quantumledgerasset.com/logo.png?v=1734095048&width=760
+File Name: C:\Documents\crypto clone\quantumledgerasset.com\logo-1.png
+Content Type: image/png
+
+Uri: https://quantumledgerasset.com/medbed.png
+File Name: C:\Documents\crypto clone\quantumledgerasset.com\medbed.png
+Content Type: image/png
+
+Uri: https://quantumledgerasset.com/register
+File Name: C:\Documents\crypto clone\quantumledgerasset.com\register.html
+Content Type: text/html
+
+Uri: https://quantumledgerasset.com/uploads/favicon/1758110378_logo.png
+File Name: C:\Documents\crypto clone\quantumledgerasset.com\uploads\favicon\1758110378_logo.png
+Content Type: image/png
+
+Uri: https://s3.amazonaws.com/me.judge.public-static-assets/general/video-placeholder-640x480.jpeg
+File Name: C:\Documents\crypto clone\quantumledgerasset.com\me.judge.public-static-assets\general\video-placeholder-640x480.jpeg
+Content Type: image/jpeg
+
+Uri: https://scontent.cdninstagram.com/
+File Name: C:\Documents\crypto clone\quantumledgerasset.com\index-1.htm
+Content Type: text/plain
+
+Uri: https://static.cloudflareinsights.com/beacon.min.js/v8c78df7c7c0f484497ecbca7046644da1771523124516
+File Name: C:\Documents\crypto clone\quantumledgerasset.com\beacon.min.js\v8c78df7c7c0f484497ecbca7046644da1771523124516
+Content Type: text/javascript
+
+Uri: https://static.ecomsend.com/www/popups/spin-wheel/point-mobile.svg
+File Name: C:\Documents\crypto clone\quantumledgerasset.com\www\popups\spin-wheel\point-mobile.svg
+Content Type: image/svg+xml
+
+Uri: https://static.ecomsend.com/www/popups/spin-wheel/point-mobile1.svg
+File Name: C:\Documents\crypto clone\quantumledgerasset.com\www\popups\spin-wheel\point-mobile1.svg
+Content Type: image/svg+xml
+
+Uri: https://static.ecomsend.com/www/popups/spin-wheel/point.svg
+File Name: C:\Documents\crypto clone\quantumledgerasset.com\www\popups\spin-wheel\point.svg
+Content Type: image/svg+xml
+
+Uri: https://static.ecomsend.com/www/popups/spin-wheel/wheel-border.svg
+File Name: C:\Documents\crypto clone\quantumledgerasset.com\www\popups\spin-wheel\wheel-border.svg
+Content Type: image/svg+xml
+
+Uri: https://static.klaviyo.com/onsite/js/XNijXr/klaviyo.js?company_id=XNijXr
+File Name: C:\Documents\crypto clone\quantumledgerasset.com\onsite\js\XNijXr\klaviyo.js
+Content Type: application/javascript
+
+Uri: https://themagaoffers.com/cdn/fonts/poppins/poppins_n4.0ba78fa5af9b0e1a374041b3ceaadf0a43b41362.woff2?h1=cG5mZmM2LXVmLmFjY291bnQubXlzaG9waWZ5LmNvbQ&h2=dGhlbWFnYW9mZmVycy5jb20&hmac=f428146a95cc5ebfefce823645cb24ed4c09c846b00f586c78bbb90ca0a43d3e
+File Name: C:\Documents\crypto clone\quantumledgerasset.com\cdn\fonts\poppins\poppins_n4.0ba78fa5af9b0e1a374041b3ceaadf0a43b41362.woff2
+Content Type: font/woff2
+
+Uri: https://themagaoffers.com/cdn/fonts/poppins/poppins_n7.56758dcf284489feb014a026f3727f2f20a54626.woff2?h1=cG5mZmM2LXVmLmFjY291bnQubXlzaG9waWZ5LmNvbQ&h2=dGhlbWFnYW9mZmVycy5jb20&hmac=3a04c6c6f7e05b4bebe2057f7543a383b2f275d8b515ca59bc19a859f359810c
+File Name: C:\Documents\crypto clone\quantumledgerasset.com\cdn\fonts\poppins\poppins_n7.56758dcf284489feb014a026f3727f2f20a54626.woff2
+Content Type: font/woff2
+
+Uri: https://themagaoffers.com/cdn/shop/files/shadow.png?v=1734090886
+File Name: C:\Documents\crypto clone\quantumledgerasset.com\cdn\shop\files\shadow.png
+Content Type: image/png
+
+Uri: https://themagaoffers.com/cdn/shop/t/6/assets/animations.js?v=88693664871331136111752339135
+File Name: C:\Documents\crypto clone\quantumledgerasset.com\cdn\shop\t\6\assets\animations.js
+Content Type: text/javascript
+
+Uri: https://themagaoffers.com/cdn/shop/t/6/assets/base.css?v=153638729764079287201752339135
+File Name: C:\Documents\crypto clone\quantumledgerasset.com\cdn\shop\t\6\assets\base.css
+Content Type: text/css
+
+Uri: https://themagaoffers.com/cdn/shop/t/6/assets/cart-drawer.js?v=169981311261118214701752339135
+File Name: C:\Documents\crypto clone\quantumledgerasset.com\cdn\shop\t\6\assets\cart-drawer.js
+Content Type: text/javascript
+
+Uri: https://themagaoffers.com/cdn/shop/t/6/assets/cart-notification.js?v=133508293167896966491752339135
+File Name: C:\Documents\crypto clone\quantumledgerasset.com\cdn\shop\t\6\assets\cart-notification.js
+Content Type: text/javascript
+
+Uri: https://themagaoffers.com/cdn/shop/t/6/assets/cart.js?v=53973376719736494311752339135
+File Name: C:\Documents\crypto clone\quantumledgerasset.com\cdn\shop\t\6\assets\cart.js
+Content Type: text/javascript
+
+Uri: https://themagaoffers.com/cdn/shop/t/6/assets/component-card.css?v=120341546515895839841752339135
+File Name: C:\Documents\crypto clone\quantumledgerasset.com\cdn\shop\t\6\assets\component-card.css
+Content Type: text/css
+
+Uri: https://themagaoffers.com/cdn/shop/t/6/assets/component-cart-drawer.css?v=112801333748515159671752339135
+File Name: C:\Documents\crypto clone\quantumledgerasset.com\cdn\shop\t\6\assets\component-cart-drawer.css
+Content Type: text/css
+
+Uri: https://themagaoffers.com/cdn/shop/t/6/assets/component-cart-items.css?v=123238115697927560811752339135
+File Name: C:\Documents\crypto clone\quantumledgerasset.com\cdn\shop\t\6\assets\component-cart-items.css
+Content Type: text/css
+
+Uri: https://themagaoffers.com/cdn/shop/t/6/assets/component-cart-notification.css?v=54116361853792938221752339135
+File Name: C:\Documents\crypto clone\quantumledgerasset.com\cdn\shop\t\6\assets\component-cart-notification.css
+Content Type: text/css
+
+Uri: https://themagaoffers.com/cdn/shop/t/6/assets/component-cart.css?v=164708765130180853531752339135
+File Name: C:\Documents\crypto clone\quantumledgerasset.com\cdn\shop\t\6\assets\component-cart.css
+Content Type: text/css
+
+Uri: https://themagaoffers.com/cdn/shop/t/6/assets/component-discounts.css?v=152760482443307489271752339135
+File Name: C:\Documents\crypto clone\quantumledgerasset.com\cdn\shop\t\6\assets\component-discounts.css
+Content Type: text/css
+
+Uri: https://themagaoffers.com/cdn/shop/t/6/assets/component-list-menu.css?v=151968516119678728991752339135
+File Name: C:\Documents\crypto clone\quantumledgerasset.com\cdn\shop\t\6\assets\component-list-menu.css
+Content Type: text/css
+
+Uri: https://themagaoffers.com/cdn/shop/t/6/assets/component-list-payment.css?v=69253961410771838501752339135
+File Name: C:\Documents\crypto clone\quantumledgerasset.com\cdn\shop\t\6\assets\component-list-payment.css
+Content Type: text/css
+
+Uri: https://themagaoffers.com/cdn/shop/t/6/assets/component-list-social.css?v=35792976012981934991752339135
+File Name: C:\Documents\crypto clone\quantumledgerasset.com\cdn\shop\t\6\assets\component-list-social.css
+Content Type: text/css
+
+Uri: https://themagaoffers.com/cdn/shop/t/6/assets/component-localization-form.css?v=170315343355214948141752339135
+File Name: C:\Documents\crypto clone\quantumledgerasset.com\cdn\shop\t\6\assets\component-localization-form.css
+Content Type: text/css
+
+Uri: https://themagaoffers.com/cdn/shop/t/6/assets/component-menu-drawer.css?v=147478906057189667651752339135
+File Name: C:\Documents\crypto clone\quantumledgerasset.com\cdn\shop\t\6\assets\component-menu-drawer.css
+Content Type: text/css
+
+Uri: https://themagaoffers.com/cdn/shop/t/6/assets/component-newsletter.css?v=4727253280200485261752339135
+File Name: C:\Documents\crypto clone\quantumledgerasset.com\cdn\shop\t\6\assets\component-newsletter.css
+Content Type: text/css
+
+Uri: https://themagaoffers.com/cdn/shop/t/6/assets/component-predictive-search.css?v=118923337488134913561752339135
+File Name: C:\Documents\crypto clone\quantumledgerasset.com\cdn\shop\t\6\assets\component-predictive-search.css
+Content Type: text/css
+
+Uri: https://themagaoffers.com/cdn/shop/t/6/assets/component-price.css?v=70172745017360139101752339135
+File Name: C:\Documents\crypto clone\quantumledgerasset.com\cdn\shop\t\6\assets\component-price.css
+Content Type: text/css
+
+Uri: https://themagaoffers.com/cdn/shop/t/6/assets/component-search.css?v=165164710990765432851752339135
+File Name: C:\Documents\crypto clone\quantumledgerasset.com\cdn\shop\t\6\assets\component-search.css
+Content Type: text/css
+
+Uri: https://themagaoffers.com/cdn/shop/t/6/assets/component-slider.css?v=14039311878856620671752339135
+File Name: C:\Documents\crypto clone\quantumledgerasset.com\cdn\shop\t\6\assets\component-slider.css
+Content Type: text/css
+
+Uri: https://themagaoffers.com/cdn/shop/t/6/assets/component-slideshow.css?v=17933591812325749411752339135
+File Name: C:\Documents\crypto clone\quantumledgerasset.com\cdn\shop\t\6\assets\component-slideshow.css
+Content Type: text/css
+
+Uri: https://themagaoffers.com/cdn/shop/t/6/assets/component-totals.css?v=15906652033866631521752339135
+File Name: C:\Documents\crypto clone\quantumledgerasset.com\cdn\shop\t\6\assets\component-totals.css
+Content Type: text/css
+
+Uri: https://themagaoffers.com/cdn/shop/t/6/assets/constants.js?v=132983761750457495441752339135
+File Name: C:\Documents\crypto clone\quantumledgerasset.com\cdn\shop\t\6\assets\constants.js
+Content Type: text/javascript
+
+Uri: https://themagaoffers.com/cdn/shop/t/6/assets/custom.css?v=38778749996583545641752339135
+File Name: C:\Documents\crypto clone\quantumledgerasset.com\cdn\shop\t\6\assets\custom.css
+Content Type: text/css
+
+Uri: https://themagaoffers.com/cdn/shop/t/6/assets/details-disclosure.js?v=13653116266235556501752339135
+File Name: C:\Documents\crypto clone\quantumledgerasset.com\cdn\shop\t\6\assets\details-disclosure.js
+Content Type: text/javascript
+
+Uri: https://themagaoffers.com/cdn/shop/t/6/assets/details-modal.js?v=25581673532751508451752339135
+File Name: C:\Documents\crypto clone\quantumledgerasset.com\cdn\shop\t\6\assets\details-modal.js
+Content Type: text/javascript
+
+Uri: https://themagaoffers.com/cdn/shop/t/6/assets/global.js?v=152862011079830610291752339135
+File Name: C:\Documents\crypto clone\quantumledgerasset.com\cdn\shop\t\6\assets\global.js
+Content Type: text/javascript
+
+Uri: https://themagaoffers.com/cdn/shop/t/6/assets/localization-form.js?v=144176611646395275351752339135
+File Name: C:\Documents\crypto clone\quantumledgerasset.com\cdn\shop\t\6\assets\localization-form.js
+Content Type: text/javascript
+
+Uri: https://themagaoffers.com/cdn/shop/t/6/assets/predictive-search.js?v=57209189334897115771752339135
+File Name: C:\Documents\crypto clone\quantumledgerasset.com\cdn\shop\t\6\assets\predictive-search.js
+Content Type: text/javascript
+
+Uri: https://themagaoffers.com/cdn/shop/t/6/assets/pubsub.js?v=158357773527763999511752339135
+File Name: C:\Documents\crypto clone\quantumledgerasset.com\cdn\shop\t\6\assets\pubsub.js
+Content Type: text/javascript
+
+Uri: https://themagaoffers.com/cdn/shop/t/6/assets/quantity-popover.css?v=129068967981937647381752339135
+File Name: C:\Documents\crypto clone\quantumledgerasset.com\cdn\shop\t\6\assets\quantity-popover.css
+Content Type: text/css
+
+Uri: https://themagaoffers.com/cdn/shop/t/6/assets/quantity-popover.js?v=987015268078116491752339135
+File Name: C:\Documents\crypto clone\quantumledgerasset.com\cdn\shop\t\6\assets\quantity-popover.js
+Content Type: text/javascript
+
+Uri: https://themagaoffers.com/cdn/shop/t/6/assets/search-form.js?v=133129549252120666541752339135
+File Name: C:\Documents\crypto clone\quantumledgerasset.com\cdn\shop\t\6\assets\search-form.js
+Content Type: text/javascript
+
+Uri: https://themagaoffers.com/cdn/shop/t/6/assets/section-footer.css?v=151791493383162021841752339135
+File Name: C:\Documents\crypto clone\quantumledgerasset.com\cdn\shop\t\6\assets\section-footer.css
+Content Type: text/css
+
+Uri: https://themagaoffers.com/cdn/shop/t/6/assets/sparkle.gif
+File Name: C:\Documents\crypto clone\quantumledgerasset.com\cdn\shop\t\6\assets\sparkle.gif
+Content Type: image/gif
+
+Uri: https://themagaoffers.com/cdn/shop/t/6/compiled_assets/scripts.js?2291
+File Name: C:\Documents\crypto clone\quantumledgerasset.com\cdn\shop\t\6\compiled_assets\scripts.js
+Content Type: text/javascript
+
+Uri: https://themagaoffers.com/cdn/shopifycloud/perf-kit/shopify-perf-kit-2.0.7.min.js
+File Name: C:\Documents\crypto clone\quantumledgerasset.com\cdn\shopifycloud\perf-kit\shopify-perf-kit-2.0.7.min.js
+Content Type: text/javascript
+
+Uri: https://themagaoffers.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css
+File Name: C:\Documents\crypto clone\quantumledgerasset.com\cdn\shopifycloud\portable-wallets\latest\accelerated-checkout-backwards-compat.css
+Content Type: text/css
+
+Uri: https://themagaoffers.com/cdn/shopifycloud/portable-wallets/latest/portable-wallets.en.js
+File Name: C:\Documents\crypto clone\quantumledgerasset.com\cdn\shopifycloud\portable-wallets\latest\portable-wallets.en.js
+Content Type: text/javascript
+
+Uri: https://themagaoffers.com/cdn/shopifycloud/privacy-banner/storefront-banner.js
+File Name: C:\Documents\crypto clone\quantumledgerasset.com\cdn\shopifycloud\privacy-banner\storefront-banner.js
+Content Type: text/javascript
+
+Uri: https://themagaoffers.com/cdn/shopifycloud/shop-js/client.js
+File Name: C:\Documents\crypto clone\quantumledgerasset.com\cdn\shopifycloud\shop-js\client.js
+Content Type: text/javascript
+
+Uri: https://themagaoffers.com/cdn/shopifycloud/storefront/assets/storefront/load_feature-81c60534.js
+File Name: C:\Documents\crypto clone\quantumledgerasset.com\cdn\shopifycloud\storefront\assets\storefront\load_feature-81c60534.js
+Content Type: text/javascript
+
+Uri: https://themagaoffers.com/checkouts/internal/preloads.js?locale=en-US
+File Name: C:\Documents\crypto clone\quantumledgerasset.com\checkouts\internal\preloads.js
+Content Type: application/javascript
+
