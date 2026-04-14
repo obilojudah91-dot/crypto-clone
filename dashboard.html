@@ -1,0 +1,307 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Quantum Ledger - Dashboard</title>
+    <link rel="icon" href="favicon.svg" type="image/svg+xml" />
+
+    <link href="css2-3?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="css/scrollbar.css" />
+    <link rel="stylesheet" href="build/assets/app-ZIYIpOlB.css" />
+  </head>
+
+  <body class="font-sans antialiased">
+    <div class="min-h-screen w-full bg-gray-50 dark:bg-gray-900 dark:text-white">
+      <div class="max-w-5xl mx-auto p-4 sm:p-6">
+        <div class="flex items-center justify-between mb-6">
+          <div class="flex items-center gap-3">
+            <img src="logo-2.svg" alt="QFS Logo" class="h-10 w-auto" />
+            <div>
+              <div class="text-xl font-bold">Quantum Ledger</div>
+              <div class="text-sm text-gray-600 dark:text-gray-300" id="dashboard-subtitle">Secure wallet trading</div>
+            </div>
+          </div>
+          <div class="flex items-center gap-2">
+            <div class="text-sm text-gray-700 dark:text-gray-200" id="user-pill"></div>
+            <button
+              id="btn-logout"
+              class="px-4 py-2 rounded-md bg-gray-900 text-white dark:bg-white dark:text-gray-900 hover:opacity-90"
+              type="button"
+            >
+              Logout
+            </button>
+          </div>
+        </div>
+
+        <div class="bg-white dark:bg-gray-800 rounded-xl shadow p-4 sm:p-6 mb-6">
+          <div class="font-semibold mb-2">Wallet Storage (Safe)</div>
+          <div class="text-sm text-gray-600 dark:text-gray-300 mb-4">
+            Never enter seed phrases/recovery phrases. This app uses your wallet extension to connect and uses public addresses only.
+          </div>
+
+          <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+            <div class="border rounded-lg p-4">
+              <div class="font-semibold mb-1">EVM Wallet (Trust / MetaMask)</div>
+              <div class="text-sm text-gray-600 dark:text-gray-300 mb-3">
+                Connect for EVM chains. We store only your public address.
+              </div>
+              <button
+                id="btn-connect-evm"
+                class="w-full px-4 py-2 rounded-md bg-green-600 text-white hover:bg-green-700"
+                type="button"
+              >
+                Connect EVM Wallet
+              </button>
+              <div class="text-xs mt-3 text-gray-600 dark:text-gray-300">
+                Connected: <span id="evm-address">none</span>
+              </div>
+            </div>
+
+            <div class="border rounded-lg p-4">
+              <div class="font-semibold mb-1">Solana Wallet (Phantom / Trust)</div>
+              <div class="text-sm text-gray-600 dark:text-gray-300 mb-3">
+                Connect for Solana. We store only your public address.
+              </div>
+              <button
+                id="btn-connect-solana"
+                class="w-full px-4 py-2 rounded-md bg-green-600 text-white hover:bg-green-700"
+                type="button"
+              >
+                Connect Solana Wallet
+              </button>
+              <div class="text-xs mt-3 text-gray-600 dark:text-gray-300">
+                Connected: <span id="sol-address">none</span>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="bg-white dark:bg-gray-800 rounded-xl shadow p-4 sm:p-6">
+          <div class="flex items-center justify-between gap-3 mb-4">
+            <div>
+              <div class="font-semibold text-lg">Buy / Sell</div>
+              <div class="text-sm text-gray-600 dark:text-gray-300">Create a buy/sell order intent.</div>
+            </div>
+          </div>
+
+          <form id="order-form" class="grid grid-cols-1 md:grid-cols-2 gap-4">
+            <div class="border rounded-lg p-4">
+              <div class="font-semibold mb-3">Order Type</div>
+              <label class="flex items-center gap-2 mb-2">
+                <input type="radio" name="order_type" value="buy" checked />
+                <span>Buy</span>
+              </label>
+              <label class="flex items-center gap-2">
+                <input type="radio" name="order_type" value="sell" />
+                <span>Sell</span>
+              </label>
+            </div>
+
+            <div class="border rounded-lg p-4">
+              <div class="font-semibold mb-3">Chain</div>
+              <select id="chain" class="w-full px-3 py-2 rounded-md border border-gray-300 dark:border-gray-700 bg-white dark:bg-gray-900">
+                <option value="evm" selected>EVM</option>
+                <option value="solana">Solana</option>
+              </select>
+              <div class="text-xs mt-2 text-gray-600 dark:text-gray-300">
+                Uses your connected address for that chain.
+              </div>
+            </div>
+
+            <div class="border rounded-lg p-4">
+              <div class="font-semibold mb-3">Token Symbol</div>
+              <input
+                id="token"
+                type="text"
+                class="w-full px-3 py-2 rounded-md border border-gray-300 dark:border-gray-700 bg-white dark:bg-gray-900"
+                value="BTC"
+                maxlength="20"
+              />
+            </div>
+
+            <div class="border rounded-lg p-4">
+              <div class="font-semibold mb-3">Amount</div>
+              <input
+                id="amount"
+                type="text"
+                class="w-full px-3 py-2 rounded-md border border-gray-300 dark:border-gray-700 bg-white dark:bg-gray-900"
+                value="1"
+                inputmode="decimal"
+              />
+            </div>
+
+            <div class="md:col-span-2 flex items-center gap-3">
+              <button
+                id="btn-submit-order"
+                type="submit"
+                class="px-5 py-3 rounded-md bg-green-600 text-white hover:bg-green-700 w-full md:w-auto"
+              >
+                Submit Order
+              </button>
+              <div id="order-status" class="text-sm text-gray-700 dark:text-gray-200"></div>
+            </div>
+          </form>
+        </div>
+
+        <div class="bg-white dark:bg-gray-800 rounded-xl shadow p-4 sm:p-6 mt-6">
+          <div class="font-semibold mb-3">Recent Orders</div>
+          <div class="text-sm text-gray-600 dark:text-gray-300 mb-3" id="orders-empty">No orders yet.</div>
+          <div id="orders-list" class="space-y-2"></div>
+        </div>
+      </div>
+    </div>
+
+    <script>
+      function api(path, method, body) {
+        return fetch(path, {
+          method,
+          headers: { 'Content-Type': 'application/json' },
+          credentials: 'include',
+          body: body ? JSON.stringify(body) : undefined,
+        });
+      }
+
+      function escapeHtml(s) {
+        return String(s)
+          .replaceAll('&', '&amp;')
+          .replaceAll('<', '&lt;')
+          .replaceAll('>', '&gt;')
+          .replaceAll('"', '&quot;')
+          .replaceAll("'", '&#039;');
+      }
+
+      async function loadMe() {
+        const res = await api('/api/me', 'GET');
+        if (!res.ok) throw new Error('Not authenticated');
+        return res.json();
+      }
+
+      function setWalletUi(wallets) {
+        const byChain = {};
+        for (const w of wallets || []) byChain[w.chain] = w.address;
+        document.getElementById('evm-address').textContent = byChain.evm || 'none';
+        document.getElementById('sol-address').textContent = byChain.solana || 'none';
+      }
+
+      function renderOrders(orders) {
+        const list = document.getElementById('orders-list');
+        const empty = document.getElementById('orders-empty');
+        list.innerHTML = '';
+
+        if (!orders || orders.length === 0) {
+          empty.style.display = 'block';
+          return;
+        }
+        empty.style.display = 'none';
+
+        for (const o of orders) {
+          const row = document.createElement('div');
+          row.className = 'border rounded-lg p-3';
+          row.innerHTML = `
+            <div class="flex items-center justify-between gap-3">
+              <div class="font-semibold">${escapeHtml(o.type.toUpperCase())} ${escapeHtml(o.token)}</div>
+              <div class="text-xs text-gray-600 dark:text-gray-300">Status: ${escapeHtml(o.status)}</div>
+            </div>
+            <div class="text-sm text-gray-600 dark:text-gray-300 mt-1">
+              Chain: ${escapeHtml(o.chain)} | Amount: ${escapeHtml(o.amount)} | Wallet: ${escapeHtml(o.wallet_address || 'none')}
+            </div>
+          `;
+          list.appendChild(row);
+        }
+      }
+
+      async function connectEvm() {
+        if (!window.ethereum) throw new Error('EVM wallet not detected. Install Trust Wallet/MetaMask extension.');
+        const accounts = await window.ethereum.request({ method: 'eth_requestAccounts' });
+        const address = accounts && accounts[0] ? accounts[0] : '';
+        if (!address) throw new Error('No EVM address returned by wallet.');
+        const res = await api('/api/wallets/connect', 'POST', { chain: 'evm', address });
+        const data = await res.json();
+        if (!res.ok || !data.ok) throw new Error(data.error || 'Failed to connect EVM wallet');
+      }
+
+      async function connectSolana() {
+        if (!window.solana) throw new Error('Solana wallet not detected. Install Phantom/Trust extension.');
+        // Phantom/Trust implement the standard Solana provider connect flow.
+        const resp = await window.solana.connect();
+        const address = resp && resp.publicKey ? resp.publicKey.toString() : '';
+        if (!address) throw new Error('No Solana public key returned.');
+        const res = await api('/api/wallets/connect', 'POST', { chain: 'solana', address });
+        const data = await res.json();
+        if (!res.ok || !data.ok) throw new Error(data.error || 'Failed to connect Solana wallet');
+      }
+
+      document.addEventListener('DOMContentLoaded', async () => {
+        const subtitle = document.getElementById('dashboard-subtitle');
+        const userPill = document.getElementById('user-pill');
+        const status = document.getElementById('order-status');
+
+        let me;
+        try {
+          me = await loadMe();
+        } catch (e) {
+          window.location.href = '/login.html';
+          return;
+        }
+
+        subtitle.textContent = `Signed in as ${me.user.username}`;
+        userPill.textContent = me.user.email;
+        setWalletUi(me.wallets);
+        renderOrders(me.orders);
+
+        document.getElementById('btn-logout').addEventListener('click', async () => {
+          await api('/api/logout', 'POST');
+          window.location.href = '/login.html';
+        });
+
+        document.getElementById('btn-connect-evm').addEventListener('click', async () => {
+          status.textContent = 'Connecting EVM wallet...';
+          try {
+            await connectEvm();
+            status.textContent = 'EVM wallet connected.';
+            me = await loadMe();
+            setWalletUi(me.wallets);
+          } catch (e) {
+            status.textContent = e && e.message ? e.message : 'Failed to connect EVM wallet';
+          }
+        });
+
+        document.getElementById('btn-connect-solana').addEventListener('click', async () => {
+          status.textContent = 'Connecting Solana wallet...';
+          try {
+            await connectSolana();
+            status.textContent = 'Solana wallet connected.';
+            me = await loadMe();
+            setWalletUi(me.wallets);
+          } catch (e) {
+            status.textContent = e && e.message ? e.message : 'Failed to connect Solana wallet';
+          }
+        });
+
+        document.getElementById('order-form').addEventListener('submit', async (e) => {
+          e.preventDefault();
+          status.textContent = 'Submitting order...';
+
+          try {
+            const orderType = document.querySelector('input[name="order_type"]:checked').value;
+            const chain = document.getElementById('chain').value;
+            const token = document.getElementById('token').value;
+            const amount = document.getElementById('amount').value;
+
+            const res = await api('/api/orders', 'POST', { type: orderType, chain, token, amount });
+            const data = await res.json();
+            if (!res.ok || !data.ok) throw new Error(data.error || 'Order submission failed');
+
+            status.textContent = `Order created (id: ${data.orderId}).`;
+            me = await loadMe();
+            renderOrders(me.orders);
+          } catch (err) {
+            status.textContent = err && err.message ? err.message : 'Order submission failed';
+          }
+        });
+      });
+    </script>
+  </body>
+</html>
+
