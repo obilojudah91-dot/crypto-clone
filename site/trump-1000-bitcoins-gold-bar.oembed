@@ -1,0 +1,12 @@
+﻿{
+  "version": "1.0",
+  "type": "link",
+  "provider_name": "Local Copy",
+  "provider_url": "http://localhost:3000/",
+  "title": "Trump 1000 Bitcoins Gold Bar",
+  "author_name": "",
+  "author_url": "",
+  "thumbnail_url": "card1.png",
+  "thumbnail_width": 1000,
+  "thumbnail_height": 1000
+}
